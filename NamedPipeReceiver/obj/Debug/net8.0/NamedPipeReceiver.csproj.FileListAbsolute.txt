@@ -1,0 +1,14 @@
+C:\kt2asinhrone-t\NamedPipeReceiver\bin\Debug\net8.0\NamedPipeReceiver.exe
+C:\kt2asinhrone-t\NamedPipeReceiver\bin\Debug\net8.0\NamedPipeReceiver.deps.json
+C:\kt2asinhrone-t\NamedPipeReceiver\bin\Debug\net8.0\NamedPipeReceiver.runtimeconfig.json
+C:\kt2asinhrone-t\NamedPipeReceiver\bin\Debug\net8.0\NamedPipeReceiver.dll
+C:\kt2asinhrone-t\NamedPipeReceiver\bin\Debug\net8.0\NamedPipeReceiver.pdb
+C:\kt2asinhrone-t\NamedPipeReceiver\obj\Debug\net8.0\NamedPipeReceiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\kt2asinhrone-t\NamedPipeReceiver\obj\Debug\net8.0\NamedPipeReceiver.AssemblyInfoInputs.cache
+C:\kt2asinhrone-t\NamedPipeReceiver\obj\Debug\net8.0\NamedPipeReceiver.AssemblyInfo.cs
+C:\kt2asinhrone-t\NamedPipeReceiver\obj\Debug\net8.0\NamedPipeReceiver.csproj.CoreCompileInputs.cache
+C:\kt2asinhrone-t\NamedPipeReceiver\obj\Debug\net8.0\NamedPipeReceiver.dll
+C:\kt2asinhrone-t\NamedPipeReceiver\obj\Debug\net8.0\refint\NamedPipeReceiver.dll
+C:\kt2asinhrone-t\NamedPipeReceiver\obj\Debug\net8.0\NamedPipeReceiver.pdb
+C:\kt2asinhrone-t\NamedPipeReceiver\obj\Debug\net8.0\NamedPipeReceiver.genruntimeconfig.cache
+C:\kt2asinhrone-t\NamedPipeReceiver\obj\Debug\net8.0\ref\NamedPipeReceiver.dll

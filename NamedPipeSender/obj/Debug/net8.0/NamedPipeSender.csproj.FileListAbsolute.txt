@@ -1,0 +1,14 @@
+C:\kt2asinhrone-t\NamedPipeSender\bin\Debug\net8.0\NamedPipeSender.exe
+C:\kt2asinhrone-t\NamedPipeSender\bin\Debug\net8.0\NamedPipeSender.deps.json
+C:\kt2asinhrone-t\NamedPipeSender\bin\Debug\net8.0\NamedPipeSender.runtimeconfig.json
+C:\kt2asinhrone-t\NamedPipeSender\bin\Debug\net8.0\NamedPipeSender.dll
+C:\kt2asinhrone-t\NamedPipeSender\bin\Debug\net8.0\NamedPipeSender.pdb
+C:\kt2asinhrone-t\NamedPipeSender\obj\Debug\net8.0\NamedPipeSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\kt2asinhrone-t\NamedPipeSender\obj\Debug\net8.0\NamedPipeSender.AssemblyInfoInputs.cache
+C:\kt2asinhrone-t\NamedPipeSender\obj\Debug\net8.0\NamedPipeSender.AssemblyInfo.cs
+C:\kt2asinhrone-t\NamedPipeSender\obj\Debug\net8.0\NamedPipeSender.csproj.CoreCompileInputs.cache
+C:\kt2asinhrone-t\NamedPipeSender\obj\Debug\net8.0\NamedPipeSender.dll
+C:\kt2asinhrone-t\NamedPipeSender\obj\Debug\net8.0\refint\NamedPipeSender.dll
+C:\kt2asinhrone-t\NamedPipeSender\obj\Debug\net8.0\NamedPipeSender.pdb
+C:\kt2asinhrone-t\NamedPipeSender\obj\Debug\net8.0\NamedPipeSender.genruntimeconfig.cache
+C:\kt2asinhrone-t\NamedPipeSender\obj\Debug\net8.0\ref\NamedPipeSender.dll
